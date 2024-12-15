@@ -1,7 +1,8 @@
 {
-  "name": "software-engineering-learning",
+  "name": "software-engineering-learning-SDLC",
   "private": true,
-  "version": "0.0.0",
+  "author": "Ahmed Mansour (https://github.com/amans199/)",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
